@@ -39,7 +39,7 @@ namespace ModuleOneReview
                             Console.WriteLine($"The area of the Circle is {AreaOfCircle(userRadius)}!\nPress enter to continue.");
                             Console.ReadLine();
                         }
-
+                        
                     } while (!validUserInput);
 
                     break;
@@ -73,7 +73,7 @@ namespace ModuleOneReview
                                 $"The area of the Triangle is {AreaOfTriangle(userTriangleBase, userTriangleHeight)}!\nPress enter to continue.");
                             Console.ReadLine();
                         }
-                        Console.Clear();
+                        
 
                     }while (!validUserInput);
                     break;
@@ -108,7 +108,7 @@ namespace ModuleOneReview
                                 $"The area of the Rectangle is {AreaOfRectangle(userRectangleLength, userRectangleWidth)}!\nPress enter to continue.");
                             Console.ReadLine();
                         }
-                        Console.Clear();
+                        
 
                     }while (!validUserInput);
                     break;
@@ -126,6 +126,7 @@ namespace ModuleOneReview
                             Console.WriteLine($"The area of the Square is {AreaOfSquare(userSquare)}!\nPress enter to continue.");
                             Console.ReadLine();
                         }
+                        
 
                     } while (!validUserInput);
                     break;

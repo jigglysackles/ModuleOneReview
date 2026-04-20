@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ModuleOneReview")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dde8e40302be39ffa707de53a60b74308aa3fc53")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e0effb824458d5acc29e64a3519c6670d933442")]
 [assembly: System.Reflection.AssemblyProductAttribute("ModuleOneReview")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ModuleOneReview")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
