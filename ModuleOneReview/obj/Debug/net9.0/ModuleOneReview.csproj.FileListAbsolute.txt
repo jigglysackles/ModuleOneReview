@@ -1,0 +1,15 @@
+C:\Code\repos\ModuleOneReview\ModuleOneReview\bin\Debug\net9.0\ModuleOneReview.exe
+C:\Code\repos\ModuleOneReview\ModuleOneReview\bin\Debug\net9.0\ModuleOneReview.deps.json
+C:\Code\repos\ModuleOneReview\ModuleOneReview\bin\Debug\net9.0\ModuleOneReview.runtimeconfig.json
+C:\Code\repos\ModuleOneReview\ModuleOneReview\bin\Debug\net9.0\ModuleOneReview.dll
+C:\Code\repos\ModuleOneReview\ModuleOneReview\bin\Debug\net9.0\ModuleOneReview.pdb
+C:\Code\repos\ModuleOneReview\ModuleOneReview\obj\Debug\net9.0\ModuleOneReview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\repos\ModuleOneReview\ModuleOneReview\obj\Debug\net9.0\ModuleOneReview.AssemblyInfoInputs.cache
+C:\Code\repos\ModuleOneReview\ModuleOneReview\obj\Debug\net9.0\ModuleOneReview.AssemblyInfo.cs
+C:\Code\repos\ModuleOneReview\ModuleOneReview\obj\Debug\net9.0\ModuleOneReview.csproj.CoreCompileInputs.cache
+C:\Code\repos\ModuleOneReview\ModuleOneReview\obj\Debug\net9.0\ModuleOneReview.sourcelink.json
+C:\Code\repos\ModuleOneReview\ModuleOneReview\obj\Debug\net9.0\ModuleOneReview.dll
+C:\Code\repos\ModuleOneReview\ModuleOneReview\obj\Debug\net9.0\refint\ModuleOneReview.dll
+C:\Code\repos\ModuleOneReview\ModuleOneReview\obj\Debug\net9.0\ModuleOneReview.pdb
+C:\Code\repos\ModuleOneReview\ModuleOneReview\obj\Debug\net9.0\ModuleOneReview.genruntimeconfig.cache
+C:\Code\repos\ModuleOneReview\ModuleOneReview\obj\Debug\net9.0\ref\ModuleOneReview.dll
